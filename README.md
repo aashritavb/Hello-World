@@ -1,3 +1,3 @@
 # Hello-World
 My first repository
-I love to dance and hack!
+I love to hack!
